@@ -26,6 +26,7 @@ public class Main {
         zookeeperDave.voiceCommand(shark);
         System.out.println("------");
         zookeeperDave.voiceCommand(crow);
-        System.out.println("------");
+        System.out.println("----------");
+        visitorJane.beElated();
     }
 }
